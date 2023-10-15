@@ -1,9 +1,9 @@
-## Simple Counter App
+# Simple Counter App
 
 This website using NextJS as framework, Tailwind CSS as styling, Zustand as state management and Shadcn UI as modal
 
 
-# Getting Started
+## Getting Started
 
 First, run the development server:
 
